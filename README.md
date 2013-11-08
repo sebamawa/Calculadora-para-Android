@@ -11,6 +11,7 @@ Si bien el proyecto original está desarrollado en Java para Escritorio, en esta
 básica en lo que refiere a las funcionalidades de la calculadora.
 
 Video comparativo de las visulaes para las versiones Java (Escritorio) y Android:
+
 http://www.youtube.com/watch?v=YGECXZ-8uA0
 
 POSIBLES MEJORAS A REALIZAR:

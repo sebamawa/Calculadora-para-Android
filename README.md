@@ -10,6 +10,9 @@ http://www.foro.lospillaos.es/leccion-97-jcalculadora-vt13143.html
 Si bien el proyecto original está desarrollado en Java para Escritorio, en esta versión para Android se mantuvo la lógica 
 básica en lo que refiere a las funcionalidades de la calculadora.
 
+Video comparativo de las visulaes para las versiones Java (Escritorio) y Android:
+http://www.youtube.com/watch?v=YGECXZ-8uA0
+
 POSIBLES MEJORAS A REALIZAR:
 * Establecer excepción para la división entre 0
 * Establecer excepción para valores fuera de rangos (de enteros)
